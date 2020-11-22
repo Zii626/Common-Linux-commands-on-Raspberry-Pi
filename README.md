@@ -47,7 +47,7 @@ Provide both pdf and jpg version.
   - ping
 
 
-主要包括：
+# :collision: 主要包括：
 
 - ls-列出文件目录
 - cd-目录开关
